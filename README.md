@@ -22,7 +22,7 @@ Media Queries – Responsive design
 
 📂 Project Structure
 Youtube-Clone/
-│── index.html
+│── youtube.html
 │── styles/
 │     ├── general.css
 │     ├── header.css
